@@ -18,9 +18,8 @@ cd todo-list_bash
 
 ## Example
 
-=====================================
 No tasks found. Add some tasks!
-=====================================
+
 
 Options:
 1. Add Task
