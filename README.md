@@ -1,24 +1,18 @@
-# To-Do List Bash Script 📝
-
+To-Do List Bash Script 📝
 Welcome to the To-Do List Bash Script! This script will help you keep track of your tasks while also providing a chuckle or two. Because why take life too seriously? 😄
 
-## Features
-
-- 📋 **Add Tasks**: Easily add tasks to your to-do list. Just type away and let the magic happen!
-- ❌ **Remove Tasks**: Delete tasks like they never existed—just like your last bad date!
-- ✅ **Complete Tasks**: Mark tasks as complete and feel the satisfaction wash over you. It’s like a virtual high-five! 🖐️
-- 🤣 **Funny Notes**: Get a random pun every time you view your tasks. Because laughter is the best productivity booster!
-
-## Requirements
-
-- Bash shell (Should work on most Unix/Linux systems)
-- `nl` command (for numbering lines)
-- `sed` command (for task manipulation)
-  
-## Installation
-
+Features
+📋 Add Tasks: Easily add tasks to your to-do list. Just type away and let the magic happen!
+❌ Remove Tasks: Delete tasks like they never existed—just like your last bad date!
+✅ Complete Tasks: Mark tasks as complete and feel the satisfaction wash over you. It’s like a virtual high-five! 🖐️
+🤣 Funny Notes: Get a random pun every time you view your tasks. Because laughter is the best productivity booster!
+Requirements
+Bash shell (Should work on most Unix/Linux systems)
+nl command (for numbering lines)
+sed command (for task manipulation)
+Installation
 To install this script, clone the repository to your local machine:
 
-```bash
 git clone https://github.com/Zylk-dev/todo-list_bash.git
 cd todo-list_bash
+
