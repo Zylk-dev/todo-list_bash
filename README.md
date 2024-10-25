@@ -1,5 +1,5 @@
 To-Do List Bash Script 📝
-Welcome to the To-Do List Bash Script! This script will help you keep track of your tasks while also providing a chuckle or two. Because why take life too seriously? 😄
+Welcome to the To-Do List Bash Script! This script will help you keep track of your tasks while also providing a chuckle or two. I've included some ascii art. Because why take life too seriously? 😄
 
 Features
 📋 Add Tasks: Easily add tasks to your to-do list. Just type away and let the magic happen!
