@@ -16,3 +16,39 @@ To install this script, clone the repository to your local machine:
 git clone https://github.com/Zylk-dev/todo-list_bash.git
 cd todo-list_bash
 
+## Example
+
+______________________________________________
+/\______________________________________________/`-.
+<()>____________________________________________<    ##
+\/______________________________________________\,-'
+                                              88 88  
+                                              "" 88  
+                                                 88  
+8b,dPPYba,   ,adPPYba, 8b,dPPYba,   ,adPPYba, 88 88  
+88P'    "8a a8P_____88 88P'   `"8a a8"     "" 88 88  
+88       d8 8PP""""""" 88       88 8b         88 88  
+88b,   ,a8" "8b,   ,aa 88       88 "8a,   ,aa 88 88  
+88`YbbdP"'   `"Ybbd8"' 88       88  `"Ybbd8"' 88 88  
+88                                                   
+88                                                   
+===========================================
+              TO DO LIST               
+===========================================
+
+No tasks found. Add some tasks!
+
+Options:
+1. Add Task
+2. Remove Task
+3. Complete Task
+4. Exit
+
+Remember: A task a day keeps the procrastination away!
+__________       .__   __                 .___           
+\____    /___.__.|  | |  | __           __| _/_______  __
+  /     /<   |  ||  | |  |/ /  ______  / __ |/ __ \  \/ /
+ /     /_ \___  ||  |_|    <  /_____/ / /_/ \  ___/\   / 
+/_______ \/ ____||____/__|_ \         \____ |\___  >\_/  
+        \/\/               \/              \/    \/       
+Choose an option [1-4]: 
